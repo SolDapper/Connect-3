@@ -4,7 +4,7 @@ Native Javascript Web3 Wallet Plugin.
 
 This plugin provides a basic Solana Web3 wallet connection using native javascript only.
 
-[FreeSolGamesDev](https://jsfiddle.net/user/FreeSolGamesDev/fiddles/) created a nice jquery derivation of Connect-3 with more features that you can find on jsfiddle [here](https://jsfiddle.net/FreeSolGamesDev/7a4yvx23/281/).
+FreeSolGamesDev created a nice jquery derivation of Connect-3 with more features that you can find on jsfiddle [here](https://jsfiddle.net/FreeSolGamesDev/7a4yvx23/281/).
 
 ## Supported Wallets:
 * Phantom Browser Wallet
