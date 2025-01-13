@@ -1,16 +1,8 @@
 # Connect 3
-![Connect 3](https://connect.mcdegen.xyz/connect_3/icon-150.jpg)
 
-![Connect 3](https://connect.mcdegen.xyz/connect_3/connect_3_snapshot.png)
-
-
-(C3) Native Javascript Web3 Wallet Plugin.
+Native Javascript Web3 Wallet Plugin.
 
 This plugin provides a basic Solana Web3 wallet connection using native javascript only.
-
-Published by: [McDegens DAO](https://discord.com/invite/hXXDvYTQhj)
-
-Developed by: [Dapper](https://twitter.com/SolDapper) 
 
 ## Connect-3 Demo (Native)
 [https://connect.mcdegen.xyz/connect_3/example.html](https://connect.mcdegen.xyz/connect_3/example.html)
@@ -26,7 +18,7 @@ Developed by: [Dapper](https://twitter.com/SolDapper)
 * Backpack Browser Wallet
 
 ## Native Deeplinks
-If connecting from a mobile device browser, the user is redirected to the native mobile app when selecting Phantom or Solflare. If the user does not have the app installed, they are redirected to the wallets home website to download the mobile wallet app.
+If connecting from a mobile device browser, the user is redirected to the in-app browser of the selected wallet. If the user does not have the app installed, they are redirected to the wallets home website to download the mobile wallet app.
 
 ## Basic Installation
 
