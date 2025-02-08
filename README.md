@@ -8,7 +8,6 @@ FreeSolGamesDev created a nice jquery derivation of Connect-3 with more features
 
 ## Supported Wallets:
 * Phantom, Solflare, Backpack
-* Web and Mobile
 
 ## Basic Installation
 
