@@ -6,7 +6,7 @@ This plugin provides a basic Solana Web3 wallet connection using native javascri
 
 FreeSolGamesDev created a nice jquery derivation of Connect-3 with more features that you can find on jsfiddle [here](https://jsfiddle.net/FreeSolGamesDev/7a4yvx23/281/).
 
-## Supported Wallets:
+## Supported Wallets
 * Phantom, Solflare, Backpack
 
 ## Basic Installation
