@@ -15,9 +15,9 @@ FreeSolGamesDev created a nice jquery derivation of Connect-3 with more features
 ```html
 <title>Connect 3</title>
 <meta name="description" content="Native Javascript Web3 Wallet Plugin." />
-<meta property="og:image" content="https://connect.mcdegen.xyz/connect_3/icon-150.jpg">
-<link rel="icon" href="https://connect.mcdegen.xyz/connect_3/icon-150.jpg" type="image/png">
-<link rel="apple-touch-icon" href="https://connect.mcdegen.xyz/connect_3/icon-150.jpg" type="image/png">
+<meta property="og:image" content="https://website.com/icon-150.jpg">
+<link rel="icon" href="https://website.com/icon-150.jpg" type="image/png">
+<link rel="apple-touch-icon" href="https://website.com/icon-150.jpg" type="image/png">
 ```
 
 2. Add the Connect 3 stylesheet in the head of your page.
