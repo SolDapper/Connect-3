@@ -7,14 +7,8 @@ This plugin provides a basic Solana Web3 wallet connection using native javascri
 FreeSolGamesDev created a nice jquery derivation of Connect-3 with more features that you can find on jsfiddle [here](https://jsfiddle.net/FreeSolGamesDev/7a4yvx23/281/).
 
 ## Supported Wallets:
-* Phantom Browser Wallet
-* Phantom Mobile Wallet
-* Solflare Browser Wallet
-* Solflare Mobile Wallet
-* Backpack Browser Wallet
-
-## Native Deeplinks
-If connecting from a mobile device browser, the user is redirected to the in-app browser of the selected wallet. If the user does not have the app installed, they are redirected to the wallets home website to download the mobile wallet app.
+* Phantom, Solflare, Backpack
+* Web and Mobile
 
 ## Basic Installation
 
